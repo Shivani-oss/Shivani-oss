@@ -16,7 +16,7 @@
 [<img align="left" alt="Shivani-OSS | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shivani-OSS | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Shivani-OSS | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Shivani-OSS | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][skype]
+[<img align="left" alt="Shivani-OSS | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
 
 <br />
 
