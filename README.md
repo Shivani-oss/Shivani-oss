@@ -1,4 +1,4 @@
-### Hi there, I'm Shivani - aka [Shivani-OSS][website] 👋
+### Hi there, I'm Shivani - aka [Shivani-OSS]👋
 
 ## I'm a Student, Developer, Learning Enthusiast, Programmer!
 
@@ -8,6 +8,7 @@
 - 🥅 2021 Goals: Learning More and build some Real-World Projects
 - ⚡ Fun fact: I love to play sports and dance.
 - 💬 Language Known : English, Hindi
+
 
 
 
