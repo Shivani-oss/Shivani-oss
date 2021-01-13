@@ -21,6 +21,12 @@
 <img align="left" alt="Shivani-OSS | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
 
 <br />
+<br />
+
+---
+
+ <img align="left" alt="Shivani-Oss GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shivani-oss&show_icons=true&hide_border=true" />
+
 
 ### Languages and Tools:
 
