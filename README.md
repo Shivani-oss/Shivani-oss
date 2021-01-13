@@ -9,6 +9,8 @@
 - ⚡ Fun fact: I love to play sports and dance.
 - 💬 Language Known : English, Hindi
 
+<br>
+
 
 ### Spotify Playing 🎧
 
