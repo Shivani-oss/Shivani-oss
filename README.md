@@ -1,4 +1,4 @@
-### Hi there, I'm Shivani - aka [Shivani-OSS]👋
+### Hi there, I'm Shivani 👋
 
 ## I'm a Student, Developer, Learning Enthusiast, Programmer!
 
