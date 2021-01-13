@@ -23,10 +23,6 @@
 <br />
 <br />
 
----
-
- <img align="left" alt="Shivani-Oss GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shivani-oss&show_icons=true&hide_border=true" />
-
 
 ### Languages and Tools:
 
@@ -45,6 +41,10 @@
 
 <br />
 <br />
+
+---
+<img align="left" alt="Shivani-Oss GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shivani-oss&show_icons=true&hide_border=true" />
+
 
 
 
