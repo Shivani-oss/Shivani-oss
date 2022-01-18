@@ -5,7 +5,7 @@
 - 🔭 I started my jouney in Computer Science Stream [Become A Developer]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m actively looking to enhanced my skill toward any organization
-- 🥅 2021 Goals: Learning More and build some Real-World Projects
+- 🥅 2022 Goals: Learning More and build some Real-World Projects
 - ⚡ Fun fact: I love to play sports and dance.
 - 💬 Language Known : English, Hindi
 
